@@ -1,3 +1,4 @@
+/**封装url中固定的参数，用于后面拼接到url后面 */
 export const commonParams = {
   cgiKey: 'GetHomePage',
   _: 1578468478060,
